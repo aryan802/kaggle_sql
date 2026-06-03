@@ -1,3 +1,3 @@
 # kaggle_sql
 
-*Learnt bigquery setup, basic queries, handlind large dataset queries*
+*Learnt bigquery setup, basic queries, handling large dataset queries, basic numpy pandas*
